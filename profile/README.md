@@ -1,5 +1,7 @@
 Hi there, welcome at the Token Raven Github 👋
 
+We are migrating from GitBook to GitHub. All our audited projects will still be available on GitBook but all new audits will be published on GitHub.
+
 At Token Raven we stand for accurate, well-established audits
 
 Token Raven is known for its fast response times and comprehensive crypto audits. 
